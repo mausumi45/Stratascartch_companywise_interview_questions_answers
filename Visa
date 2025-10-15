@@ -1,11 +1,1 @@
-## Last Five Records of Dataset:
-Medium - Easy
-ID 9864
-### Find the last five records of the dataset.
-
-Answer:
-select *
-from worker
-LIMIt 5 OFFSET 8;
-
 
